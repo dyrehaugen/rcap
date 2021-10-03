@@ -16,6 +16,7 @@ steady-state-capitalism
 rentier-capitalism
 affluence
 corporations
+capitalism-without-capitalists
 currencies
 dependency
 development
@@ -42,6 +43,7 @@ stock-ownership
 fear
 foreign-owners
 technology
+rd-in-development--china
 automation
 infrastructure
 unions
