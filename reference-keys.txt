@@ -36,7 +36,9 @@ world-bank
 dollar-empire
 laws-of-capitalism
 on-piketty
+the-value-of-law-the-judiciary-and-the-state
 property
+property-rights
 intellectualproperty-ip
 land-property
 stock-ownership
@@ -105,6 +107,8 @@ radically-progressive-degrowth
 assimilating-degrowth
 anti-colonial-degrowth
 history-of-capitalism
+monbiot
+hickel
 pre-history
 military-capitalism
 slavery
