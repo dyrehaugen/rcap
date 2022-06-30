@@ -48,6 +48,7 @@ property-rights
 intellectualproperty-ip
 land-property
 land-rent
+surveillance-capitalism
 technology
 rd-in-development--china
 automation
@@ -80,6 +81,7 @@ architecture-of-global-ownership
 capital-as-power
 commodities-vs-assets
 business-power
+sabotage---property-rights
 market
 capitalism-as-anti-market
 scarcity
@@ -139,6 +141,7 @@ wage-labour-1
 advertising-1
 dalys-steady-state-economy-sse
 casp-unmounting
+decapitalize-our-mindset
 about
 links
 news
