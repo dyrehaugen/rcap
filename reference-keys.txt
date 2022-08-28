@@ -48,6 +48,7 @@ property-rights
 intellectualproperty-ip
 land-property
 land-rent
+blue-commons
 surveillance-capitalism
 technology
 rd-in-development--china
@@ -128,6 +129,7 @@ world-system-theory
 ideology
 legal-foundations-of-capitalism
 global-political-economy
+self-destructive-finance-capitalism
 us---china-competition
 post-capitalism
 ban-tradable-shares
