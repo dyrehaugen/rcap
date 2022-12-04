@@ -69,6 +69,7 @@ roman-elite
 wage-labour
 labour-unions
 rentiership
+structural-power-of-finance
 inequality
 its-exploitation
 poverty
@@ -110,6 +111,7 @@ resource-decoupling
 carbon-decoupling
 hausfathers-decoupling
 degrowth
+metabolic-rift
 ecosocialism-vs-degrowth
 without-growth---ecological-socialism
 less-production---better-distribution
@@ -126,6 +128,7 @@ slavery
 corporations-1
 compensation-to-slave-owners
 world-system-theory
+anthropocene---capitalocene
 ideology
 legal-foundations-of-capitalism
 global-political-economy
@@ -136,6 +139,7 @@ ban-tradable-shares
 growing-socialism
 ways-of-transcending-capitalism
 global-governance
+expropriation-of-the-expropriators
 how-to-unmount-capitalism
 limited-liability
 fractional-banking
